@@ -15,17 +15,12 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -82,42 +77,6 @@ To get a local copy up and running, follow these steps.
 2. code editor.
 3. git-smc.
 
-### Setup
-
-Clone this repository to your desired folder:
-Run this command:
-```sh
-cd my-folder
-git clone https://github.com/iam-nadeem/Hello-World.git
-
-### Install
-
-Install this project with:
-
-<!--
-Run this command:
-
-```sh
-  cd my-project
-  npm install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-open index.html using live server extention
-
-### Run tests
-
-> coming soon
-### Deployment
-
-You can deploy this project using:
-
->coming soon
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -146,14 +105,8 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
+techwise Contributions, issues, and feature requests are welcome!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
