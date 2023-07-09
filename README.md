@@ -1,10 +1,6 @@
 
 <div align="center">
-  <img src="C:\Users\nadee\Downloads\Nadeem.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>My Project</b></h3>
-
 </div>
 # 📗 Table of Contents
 
@@ -15,7 +11,7 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Deployment](#deployment)
+    - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
